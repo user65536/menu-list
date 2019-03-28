@@ -1,7 +1,7 @@
 ## 二级菜单栏组件
 
 #### 预览页面
-  [点击预览](https://user65536.github.io/menu-list/)
+  [点击预览](https://user65536.github.io/menu-list/index.html)
 
 #### 所用技术
 
